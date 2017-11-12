@@ -1,5 +1,5 @@
 ---
-:default: ''
+:default: 'chi_sim'
 :languages:
 - :key: eng
   :lang: English
